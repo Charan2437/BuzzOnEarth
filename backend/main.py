@@ -8,7 +8,7 @@ data = pd.read_csv('data/all_city_data_with_pop.csv')
 data = data[['geometry','parking','edges','EV_stations','parking_space','civic','restaurant','park','school','node','Community_centre','place_of_worship','university','cinema','library','commercial','retail','townhall','government','residential','city','population']]
 
 # Add relevant columns, convert population to int (or string if needed)
-data['population'] = data['population'].fillna(0).astype(str)  # Handling NaNs and converting to int
+data['population'] = data['population'].fillna(0).astype(str)  # Handling NaNs and converting to str
 
 
 # Example usages:
