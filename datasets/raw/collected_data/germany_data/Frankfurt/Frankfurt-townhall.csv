@@ -1,0 +1,8 @@
+element_type,osmid,amenity,name,name:en,name:ru,name:zh,opening_hours,toilets:wheelchair,tourism,wheelchair,wheelchair:description,wikidata,wikimedia_commons,wikipedia,geometry,addr:city,addr:housenumber,addr:postcode,addr:street,email,operator,phone,townhall:type,nodes,addr:country,building,office
+node,34223060,townhall,Römer,Römer,Römer,老市政厅,Mo-Su 10:30-12:30,yes,attraction,yes,Seiteneingang gegebnüber Paulskirche. An der Pforte anmelden,Q195146,Category:Römer (Frankfurt),en:Römer,POINT (8.6816587 50.1104684),,,,,,,,,,,,
+node,1051416002,townhall,Rathaus Harheim,,,,,,,,,,,,POINT (8.6923191 50.1820959),,,,,,,,,,,,
+node,1469025823,townhall,Bürgeramt Niedereschbach,,,,,,,no,,,,,POINT (8.6713472 50.1987146),,,,,,,,,,,,
+node,1493460749,townhall,Bürgeramt Nieder-Erlenbach,,,,,,,,,,,,POINT (8.7090186 50.2033758),,,,,,,,,,,,
+node,2107773404,townhall,Jugend und Sozialrathaus Höchst,,,,,,,,,,,,POINT (8.5521099 50.1046736),,,,,,,,,,,,
+node,8199002906,townhall,"Bürgeramt, Außenstelle Fechenheim",,,,,,,,,,,,POINT (8.7694799 50.1243946),Frankfurt am Main,89,60386,Alt-Fechenheim,buergeramt.zentrale@stadt-frankfurt.de,Stadt Frankfurt,+49 69 2129744345,city,,,,
+way,105178086,townhall,Bürgeramt Höchst,,,,"Mo 09:00-17:00; Tu,We 07:30-14:00; Th 10:00-18:00; Fr 07:30-13:00",,,yes,,,,,"POLYGON ((8.5425165 50.1014043, 8.5424581 50.1015231, 8.5425573 50.1015428, 8.5429866 50.101628, 8.5430955 50.1015251, 8.5429605 50.1014955, 8.5426672 50.1014348, 8.5425165 50.1014043))",Frankfurt am Main,14,65929,Dalbergstraße,,,,,"[1212033376, 1848483104, 4444699129, 1212032781, 1212033340, 1212033571, 1212032965, 1212033376]",DE,yes,government

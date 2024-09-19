@@ -1,0 +1,4 @@
+element_type,osmid,addr:city,addr:country,addr:housenumber,addr:postcode,addr:street,amenity,drink:viez,name,phone,toilets:wheelchair,website,wheelchair,geometry,brand,brand:wikidata,brand:wikipedia,cinema:3D,opening_hours,operator
+node,272246331,Trier,DE,18,54292,Paulinstraße,cinema,served,Broadway Filmtheater - Kino,+49 651 141122,yes,http://www.broadway-trier.de/,limited,POINT (6.6461002 49.7611295),,,,,,
+node,389000691,Trier,,17,54290,Moselstraße,cinema,,CinemaxX Trier,,,,yes,POINT (6.6411542 49.7589063),Cinemaxx,Q881860,de:CinemaxX,yes,13:00+,CinemaxX Entertainment GmbH & Co. KG
+node,3483478193,Trier,DE,70a,54290,Karl-Marx-Straße,cinema,,Pleasure Shop Gaykino,,,,no,POINT (6.628554 49.751771),,,,,,
