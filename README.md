@@ -24,7 +24,7 @@ Current issues include:
 ## Approach: EV Station Placement
 The solution uses a combination of **Reinforcement Learning (RL)** and **Machine Learning (ML) classification** to optimize EV station placement in cities. The key methodology involves:
 1. **Dividing cities into grids** for manageable analysis.
-2. **Applying a machine learning classifier** to each grid to predict the suitability of EV stations.
+2. **Applying a machine / deep learning classifier** to each grid to predict the suitability of EV stations.
 3. **Reinforcement Learning** selects and refines the grid selection process until optimal placements are identified.
 
 ### Dataset
@@ -41,13 +41,15 @@ The dataset consists of road networks, points of interest (POIs), population den
 - **FastAPI**
 - **Uvicorn**
 
-### Machine Learning:
+### Machine/Deep Learning:
 - **PyTorch**
 - **Scikit-learn**
 
 ### Intel Optimization Tools:
 - **Intel® oneAPI AI Analytics Toolkit**
-- **AI Tools from Intel**
+- **Scikit Learn Intelex**
+- **Intel Extension for PyTorch**
+- **OneDAL, OneDNN, Modin**
 - **Intel® Xeon® Platinum 8468V**
 
 ## Results
